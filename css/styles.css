@@ -167,6 +167,8 @@ body{
  	background-color: #fff;
  	border-radius: 5px;
 
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 /* Style the front side (fallback if image is missing) */
